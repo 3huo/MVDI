@@ -1,6 +1,7 @@
 # Action recognition for depth video using multi-view dynamic images
 this is the implementation of the paper accepted by Science Information
 
+![avatar](https://github.com/3huo/MVDI/Pipline.png)
 the code is consists of there pattern: 
 
 1. multi-view dynamic images generation. 
