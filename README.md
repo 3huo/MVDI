@@ -1,5 +1,5 @@
 # Action recognition for depth video using multi-view dynamic images
-this is the implementation of the paper accepted by Science Information
+this is the implementation of the paper accepted by Science Information. [Journal](https://www.sciencedirect.com/science/article/pii/S0020025518309964).
 
 ![avatar](https://github.com/3huo/MVDI/blob/master/Pipline.png)
 the code is consists of there pattern: 
@@ -44,10 +44,13 @@ Please cite the following paper if you use this repository in your research.
 
 ```
 
-	@inproceedings{
-	  wew
-
-  	  year      = {2018},
+	@article{XIAO2019287，
+		title = {Action recognition for depth video using multi-view dynamic images},
+		author = {Yang Xiao and Jun Chen and Yancheng Wang and Zhiguo Cao and Joey Tianyi Zhou and Xiang Bai},
+		journal = {Information Sciences},
+		volume = {480},
+		pages = {287 - 304},
+		year = {2019}
 	}
 
 ```
