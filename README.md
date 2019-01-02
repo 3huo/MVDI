@@ -44,14 +44,13 @@ Please cite the following paper if you use this repository in your research.
 
 ```
 
-	@article{XIAO2019287，
-		title = {Action recognition for depth video using multi-view dynamic images},
-		author = {Yang Xiao and Jun Chen and Yancheng Wang and Zhiguo Cao and Joey Tianyi Zhou and Xiang Bai},
-		journal = {Information Sciences},
-		volume = {480},
-		pages = {287 - 304},
-		year = {2019}
-	}
+	@article{xiao2018action,
+  		title={Action Recognition for Depth Video using Multi-view Dynamic Images},
+  		author={Xiao, Yang and Chen, Jun and Wang, Yancheng and Cao, Zhiguo and Zhou, Joey Tianyi and Bai, Xiang},
+  		journal={Information Sciences},
+  		year={2018},
+  		publisher={Elsevier}
+}
 
 ```
 
