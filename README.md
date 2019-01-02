@@ -50,7 +50,7 @@ Please cite the following paper if you use this repository in your research.
   		journal={Information Sciences},
   		year={2018},
   		publisher={Elsevier}
-}
+	}
 
 ```
 
